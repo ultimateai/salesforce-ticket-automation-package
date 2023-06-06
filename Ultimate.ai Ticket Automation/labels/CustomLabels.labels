@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>UAI_CHAT_TRANSCRIPT_DOES_NOT_EXIST</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>UAI_CHAT_TRANSCRIPT_DOES_NOT_EXIST</shortDescription>
+        <value>Chat Transcript does not exist</value>
+    </labels>
+    <labels>
+        <fullName>UAI_FIELD_NOT_UPDATABLE</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>UAI_FIELD_NOT_UPDATABLE</shortDescription>
+        <value>Field {0} not updatable</value>
+    </labels>
+    <labels>
+        <fullName>UAI_FIELD_NOT_VALID</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>UAI_FIELD_NOT_VALID</shortDescription>
+        <value>Field {0} not valid</value>
+    </labels>
+    <labels>
+        <fullName>UAI_SOBJECT_NOT_VALID</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>UAI_SOBJECT_NOT_VALID</shortDescription>
+        <value>SObject {0} not valid</value>
+    </labels>
+</CustomLabels>
