@@ -14,6 +14,7 @@
         <members>UAI_LogErrorQueueable_Test</members>
         <members>UAI_ProcessedCase</members>
         <members>UAI_SendCaseNotification</members>
+        <members>UAI_SendCaseNotification_Test</members>
         <members>UAI_UtilREST</members>
         <members>UAI_UtilREST_Test</members>
         <name>ApexClass</name>
