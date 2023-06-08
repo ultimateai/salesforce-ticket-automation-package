@@ -41,6 +41,7 @@ public without sharing class UAI_CaseUtils {
             if(botResponses.salesforceObjectParameters != null){
 
                 UAI_ProcessedCase processedCase = processCaseFields (caseId, botResponses);
+                    
                 String exceptionText;
 
                 try{

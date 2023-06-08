@@ -6,6 +6,7 @@
         <members>UAI_BotResponse</members>
         <members>UAI_CaseUtils</members>
         <members>UAI_CaseUtils_Test</members>
+        <members>UAI_SendCaseNotification_Test</members>
         <members>UAI_ErrorLogRequest</members>
         <members>UAI_HttpCalloutMock</members>
         <members>UAI_HttpErrorLogCalloutMock</members>
